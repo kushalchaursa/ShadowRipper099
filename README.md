@@ -1,4 +1,4 @@
-# ShadowRipper099
+# FREEFIREMAXRiPPER 
 **A VM with pre-installed required tools for ripping 3d models etc. on Android/Mac/Windows/Linux**
 
 # ➡️ Features
